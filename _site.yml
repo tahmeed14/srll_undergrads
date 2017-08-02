@@ -1,0 +1,9 @@
+name: "srll-undergrads"
+output_dir: "."
+navbar:
+  title: "Statistical Reinforcement Learning Lab - Undergraduates"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Interested in Joining"
+      href: about.html
