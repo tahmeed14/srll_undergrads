@@ -18,14 +18,14 @@ To learn more about the lab, check out the [Interested?](https://tahmeed14.githu
 
 ## E-Meet Them
 
-### [Michael Kovalcik](https://sites.google.com/a/umich.edu/michael_kovalcik/home)
+### [Michael Kovalcik](https://www.linkedin.com/in/michael-kovalcik)
 
 - Major: Computer Science Engineering
 - Research:
 - Campus Involvement: [Michigan Data Science Team](http://midas.umich.edu/mdst/), [Entrepreneurs Leadership Program](http://cfe.umich.edu/elp/), [Epsilon Nu Tau](https://epsilonnutau.org/iota-umich/) 
 - Email: 
 
-### [Katherine Li]()
+### [Katherine Li](https://www.linkedin.com/in/katherine-li-751035b3)
 
 - Major: Statistics and Economics
 - Research: [SARA](https://tahmeed14.github.io/srll_undergrads/about.html) and [ReVibe](https://tahmeed14.github.io/srll_undergrads/about.html)
@@ -45,4 +45,4 @@ To learn more about the lab, check out the [Interested?](https://tahmeed14.githu
 - [Kelly Hall](https://sites.google.com/a/umich.edu/kellyhall/)
 - Xi Chen
 
-If you are interested about learning more about the specifics of research and what we do check out the [Interested?](https://tahmeed14.github.io/srll_undergrads/about.html) page.
+If you are interested in learning more about the specifics of our research and what we do check out the [Interested?](https://tahmeed14.github.io/srll_undergrads/about.html) page.
