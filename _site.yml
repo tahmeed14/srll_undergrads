@@ -5,5 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Interested in Joining"
+    - text: "Interested?"
       href: about.html
+output:
+  html_document:
+    theme: flatly
