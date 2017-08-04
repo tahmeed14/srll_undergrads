@@ -2,25 +2,34 @@
 title: "Interested in Joining?"
 ---
 
-Undergraduates in SRLL typically have the option to work with a graduate student and their specific research if interested. They work closely together all the while being supervised by a faculty member of SRLL. 
+Undergraduates in SRLL typically have the option to work with a graduate student and their specific research if interested. They work closely with the graduate student all the while being supervised by a faculty member of SRLL. 
 
 For example, [Tahmeed Tureen](https://sites.google.com/a/umich.edu/tahmeed-tureen/) worked with [Hyesun Yoo](http://www-personal.umich.edu/~yoohs/) during the 2017 winter semester and was supervised by [Dr. Susan A. Murphy](http://dept.stat.lsa.umich.edu/~samurphy/)
 
-If you are interested in joining, feel free to email Tahmeed at [tureen@umich.edu]
+Several honors students have done their undergraduate thesis through this lab.
 
-# Research Focus
+If you are interested in joining, feel free to email ??
+
+# What You Can Learn About Through this Lab
 
 ## [HeartSteps](http://www.heartsteps.net/)
 HeartSteps is a research project funded by the National Institutes of Health that explores new ways that mobile technology –smartphones and wearable sensors—can be used to help patients to continue their physical activity and/or increase it after the rehabilitation program. We have developed a mobile app that uses a person's current context—location, weather, time of day, etc.—to provide relevant, timely, and actionable suggestions for physical activity, and we are developing ways to adapt the working of the app over time for each person to maximize its effectiveness and minimize user burden. Our ultimate goal is to develop technology that effectively supports physical activity over the long-term, enabling people to become and remain active, even as they go through the many inevitable life transitions such as illness, moves, changes in jobs, and so on
 
+
 ## [SARA]()
+Blah Blah
+
+
+## [Sequential, Multiple Assignment, Randomized Trial]() (SMART)
 Blah Blah
 
 ## [Micro Randomized Trials]()
 The use and development of mobile interventions is experiencing rapid growth. In "just-in-time" mobile interventions, treatments are provided via a mobile device that are intended to help an individual make healthy decisions" in the moment," and thus have a proximal, near future impact. Currently the development of mobile interventions is proceeding at a much faster pace than that of associated data science methods. A first step toward developing data-based methods is to provide an experimental design for use in testing the proximal effects of these just-in-time treatments. In this paper, we propose a "micro-randomized" trial design for this purpose. In a micro-randomized trial, treatments are sequentially randomized throughout the conduct of the study, with the result that each participant may be randomized at the 100s or 1000s of occasions at which a treatment might be provided. Further, we develop a test statistic for assessing the proximal effect of a treatment as well as an associated sample size calculator. We conduct simulation evaluations of the sample size calculator in various settings. Rules of thumb that might be used in designing the micro-randomized trial are discussed. This work is motivated by our collaboration on the HeartSteps mobile application designed to increase physical activity
 
+
 ## [Just In Time Adaptive Interventions]()
 Blah Blah
+
 
 # Undergraduate Research Posters
 
@@ -30,16 +39,16 @@ Blah Blah
 - Kelly Hall:
 
   
-- Michael Kovalcik:
+- Michael Kovalcik: [Machine Learning: Behind the Scenes '16](https://docs.google.com/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fG1pY2hhZWxfa292YWxjaWt8Z3g6Njg1NWIwYjU3ODk1NGIyZA), [A Data First Approach to Understanding Market Values '17](http://dept.stat.lsa.umich.edu/~samurphy/nida/MichaelKovalcikAdamy_mssiss.pdf)
 
   
-- Katherine Li: [Revibe: Recalling Everyday Moments with Context](http://dept.stat.lsa.umich.edu/~samurphy/nida/KateLiMSSISS_poster2017.jpg)
+- Katherine Li: [Revibe: Recalling Everyday Moments with Context '17](http://dept.stat.lsa.umich.edu/~samurphy/nida/KateLiMSSISS_poster2017.jpg) (Best Undergraduate Poster at MSSISS 2017)
 
 
 - Julia Lynn:
 
 
-- Tahmeed Tureen:[Treatment Effect on Availability](http://dept.stat.lsa.umich.edu/~samurphy/nida/MSSISS_Poster_Tureen.pdf)
+- Tahmeed Tureen:[Treatment Effect on Availability in Mobile Health '17](http://dept.stat.lsa.umich.edu/~samurphy/nida/MSSISS_Poster_Tureen.pdf)
 
 
 - Tiantian Ye:
