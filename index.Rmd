@@ -40,7 +40,7 @@ To learn more about the lab, check out the [Interested?](https://tahmeed14.githu
 - Email: tureen@umich.edu
 
 
-# Former Undergraduates
+## Former Undergraduates
 
 - [Kelly Hall](https://sites.google.com/a/umich.edu/kellyhall/)
 - Xi Chen
