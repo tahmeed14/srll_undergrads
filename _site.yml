@@ -1,12 +1,18 @@
 name: "srll-undergrads"
 output_dir: "."
 navbar:
-  title: "Statistical Reinforcement Learning Lab - Undergraduates"
+  title: "Statistical Reinforcement Learning Lab"
   left:
     - text: "Home"
       href: index.html
     - text: "Interested?"
       href: about.html
+    - text: "University of Michigan"
+      href: umich.html
+    - text: "Harvard"
+      href: harvard.html
+    - text: "Posters"
+      href: posters.html
 output:
   html_document:
     theme: flatly
