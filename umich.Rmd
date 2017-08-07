@@ -24,7 +24,7 @@
 ### [Michael Kovalcik](https://www.linkedin.com/in/michael-kovalcik)
 
 - Major: Computer Science Engineering
-- Research:
+- Research: Machine Learning in Mobile Health
 
 ### [Katherine Li](https://www.linkedin.com/in/katherine-li-751035b3)
 
@@ -34,7 +34,7 @@
 ### [Tahmeed Tureen](https://sites.google.com/a/umich.edu/tahmeed-tureen/)
 
 - Major: Statistics
-- Research: [e wrapper](), 
+- Research: [e wrapper](), Binary outcomes in Mobile Health
 
 
 # Undergraduates, Want to Join?
@@ -55,7 +55,7 @@ If you are interested in joining, you must follow the following steps:
 Once you are admitted to the lab, these are your expectations
 
 * If you are receiving credit, you WILL be graded based on your performance and commitment to the lab
-* You are to come to weekly meetings on Fridays (Time and Location usually vary) unless there is a class conflict
+* You are to attend weekly meetings on Fridays (Time and Location usually vary) unless there is a class conflict
 * Work with a graduate student/post-doctoral assisting them in research
 * Present research posters at several symposiums on University of Michigan's campus
 

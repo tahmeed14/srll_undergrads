@@ -28,6 +28,7 @@ Blah Blah
 #  The Science
 
 ## [Sequential, Multiple Assignment, Randomized Trial]() (SMART)
+Blah Blah
 
 
 ## [Micro Randomized Trials]() (MRT)
