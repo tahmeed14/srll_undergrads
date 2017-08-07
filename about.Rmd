@@ -1,9 +1,11 @@
-## Interested in joining SRLL either at University of Michigan or Harvard?
+---
+title: "Interested in Joining the Statistical Reinforcement Learning Lab?"
+---
 
-If you are at the University of Michigan - Ann Arbor, refer to this page: [UMICH](umich.html)
+If you are at the University of Michigan - Ann Arbor, MI refer to this page: [UMICH](umich.html)
 
 
-If you are at Harvard University - Cambridge, refer to this page: [HARVARD](harvard.html)
+If you are at Harvard University - Cambridge, MA refer to this page: [HARVARD](harvard.html)
 
 
 # Projects
@@ -39,8 +41,4 @@ an individual’s emotional, social, physical and contextual state, so as to pre
 and promote the adoption and maintenance of healthy behaviors. A JITAI is an intervention design
 aiming to address the dynamically changing needs of individuals via the provision of the type/amount of
 support needed, at the right time, and only when needed.
-
-
-
-
 

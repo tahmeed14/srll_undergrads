@@ -3,11 +3,12 @@ title: "The Statistical Reinforcement Learning Lab"
 ---
 
 
-The [Statistical Reinforcement Learning Lab](http://dept.stat.lsa.umich.edu/~samurphy/nida/overview.html) (SRLL) is a research lab at the University of Michigan (UM) and Harvard University. 
+The [Statistical Reinforcement Learning Lab](http://dept.stat.lsa.umich.edu/~samurphy/nida/overview.html) (SRLL) is a research lab at the University of Michigan and Harvard University. 
 
 
 The research team is particulary interested in the field of mobile health. The research focus is on combining statistical inference methods (confidence intervals, hypothesis testing) with algorithmic methods developed in computer science for use in reinforcement learning and evaluating treatment policies (adaptive interventions and just-in-time adaptive interventions in mobile health)
 
+![](SRLLgroupphoto.jpg)
 
 ## The Team
 
