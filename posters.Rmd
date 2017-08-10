@@ -46,3 +46,6 @@ title: "A Selection of Seminars and Posters since 2007"
 
   
 - Xiaolei Wang: [Micro-randomized Trial Protocols for Intervention Components in HeartSteps 2.0 '17](http://dept.stat.lsa.umich.edu/~samurphy/nida/XiaoleiWangMSSISSPoster.pdf)
+
+
+![](SRLLLogo.jpg)

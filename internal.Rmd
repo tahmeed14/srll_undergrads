@@ -1,4 +1,7 @@
-![](SRLLLogo.jpg)
+---
+title: "Lab Processes"
+---
+
 
 ## [Lab Schedule]()
 
@@ -14,5 +17,5 @@
 - Email: samurphy@fas.harvard.edu
 - Website: [Link](https://dl.dropboxusercontent.com/u/16868661/index.html)
 
-
+![](SRLLLogo.jpg)
 

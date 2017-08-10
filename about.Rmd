@@ -1,5 +1,6 @@
-
-![](SRLLLogo.jpg)
+---
+title: "More about the Statistical Reinforcement Learning Lab"
+---
 
 If you interested in joining the SRLL, refer to this [page](harvard.html)
 
@@ -42,3 +43,5 @@ and promote the adoption and maintenance of healthy behaviors. A JITAI is an int
 aiming to address the dynamically changing needs of individuals via the provision of the type/amount of
 support needed, at the right time, and only when needed.
 
+
+![](SRLLLogo.jpg)
