@@ -1,17 +1,14 @@
----
-title: "Interested in Joining the Statistical Reinforcement Learning Lab?"
----
 
-If you are at the University of Michigan - Ann Arbor, MI refer to this page: [UMICH](umich.html)
+![](SRLLLogo.jpg)
 
-
-If you are at Harvard University - Cambridge, MA refer to this page: [HARVARD](harvard.html)
+If you interested in joining the SRLL, refer to this [page](harvard.html)
 
 
 # Projects
 
-## [HeartSteps](http://www.heartsteps.net/), University of Michigan
-HeartSteps is a research project funded by the National Institutes of Health that explores new ways that mobile technology smartphones and wearable sensors can be used to help patients to continue their physical activity and/or increase it after the rehabilitation program. We have developed a mobile app that uses a person's current context location, weather, time of day, etc. to provide relevant, timely, and actionable suggestions for physical activity, and we are developing ways to adapt the working of the app over time for each person to maximize its effectiveness and minimize user burden. Our ultimate goal is to develop technology that effectively supports physical activity over the long-term, enabling people to become and remain active, even as they go through the many inevitable life transitions such as illness, moves, changes in jobs, and so on
+
+## [Smoking Sensation](), Harvard University
+Blah Blah
 
 
 ## [ReVibe](), Harvard University
@@ -22,10 +19,12 @@ Blah Blah
 Blah Blah
 
 
-## [e wrapper](), University of Michigan
-Blah Blah
+## [HeartSteps](http://www.heartsteps.net/), Harvard University & University of Michigan
+HeartSteps is a research project funded by the National Institutes of Health that explores new ways that mobile technology smartphones and wearable sensors can be used to help patients to continue their physical activity and/or increase it after the rehabilitation program. We have developed a mobile app that uses a person's current context location, weather, time of day, etc. to provide relevant, timely, and actionable suggestions for physical activity, and we are developing ways to adapt the working of the app over time for each person to maximize its effectiveness and minimize user burden. Our ultimate goal is to develop technology that effectively supports physical activity over the long-term, enabling people to become and remain active, even as they go through the many inevitable life transitions such as illness, moves, changes in jobs, and so on
+
 
 #  The Science
+
 
 ## [Sequential, Multiple Assignment, Randomized Trial]() (SMART)
 Blah Blah

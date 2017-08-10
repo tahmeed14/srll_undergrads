@@ -7,12 +7,14 @@ navbar:
       href: index.html
     - text: "Interested?"
       href: about.html
-    - text: "University of Michigan"
-      href: umich.html
-    - text: "Harvard University"
+    - text: "Lab Members"
       href: harvard.html
     - text: "Posters"
       href: posters.html
+    - text: "Collaborating Universities"
+      href: collab.html
+    - text: "Internal Site"
+      href: internal.html
 output:
   html_document:
     theme: flatly
