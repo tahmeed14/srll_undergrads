@@ -178,20 +178,42 @@ $(document).ready(function () {
         <li>
   <a href="index.html">Home</a>
 </li>
-<li>
-  <a href="about.html">Interested?</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Interested?
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="about.html">The Projects</a>
+    </li>
+    <li>
+      <a href="harvard.html">Lab Members / Join</a>
+    </li>
+    <li>
+      <a href="posters.html">Posters</a>
+    </li>
+    <li>
+      <a href="internal.html">Internal Site</a>
+    </li>
+  </ul>
 </li>
-<li>
-  <a href="harvard.html">Lab Members</a>
-</li>
-<li>
-  <a href="posters.html">Posters</a>
-</li>
-<li>
-  <a href="collab.html">Collaborating Universities</a>
-</li>
-<li>
-  <a href="internal.html">Internal Site</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Collaborating Universities
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">D Cube Lab at the University of Michigan</li>
+    <li>
+      <a href="https://methodology.psu.edu/">The Methodolgy Center at Penn State University</a>
+    </li>
+    <li>
+      <a href="https://methodology.psu.edu/downloads">SMART/MRT Software</a>
+    </li>
+  </ul>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -232,10 +254,6 @@ $(document).ready(function () {
 </div>
 <div id="the-science" class="section level1">
 <h1>The Science</h1>
-<div id="sequential-multiple-assignment-randomized-trial-smart" class="section level2">
-<h2><a href="">Sequential, Multiple Assignment, Randomized Trial</a> (SMART)</h2>
-<p>Blah Blah</p>
-</div>
 <div id="micro-randomized-trials-mrt" class="section level2">
 <h2><a href="">Micro Randomized Trials</a> (MRT)</h2>
 <p>The use and development of mobile interventions is experiencing rapid growth. In “just-in-time” mobile interventions, treatments are provided via a mobile device that are intended to help an individual make healthy decisions&quot; in the moment,&quot; and thus have a proximal, near future impact. Currently the development of mobile interventions is proceeding at a much faster pace than that of associated data science methods. A first step toward developing data-based methods is to provide an experimental design for use in testing the proximal effects of these just-in-time treatments. In this paper, we propose a “micro-randomized” trial design for this purpose. In a micro-randomized trial, treatments are sequentially randomized throughout the conduct of the study, with the result that each participant may be randomized at the 100s or 1000s of occasions at which a treatment might be provided. Further, we develop a test statistic for assessing the proximal effect of a treatment as well as an associated sample size calculator. We conduct simulation evaluations of the sample size calculator in various settings. Rules of thumb that might be used in designing the micro-randomized trial are discussed. This work is motivated by our collaboration on the HeartSteps mobile application designed to increase physical activity</p>

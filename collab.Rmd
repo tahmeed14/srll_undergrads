@@ -1,7 +1,11 @@
-![](SRLLLogo.jpg)
+---
+title: "Collaborating Universities"
+---
 
 The SRLL also collaborates with other research institutions and universities. We work closely with:
 
-- [University of Michigan - Ann Arbor](http://www-personal.umich.edu/~dalmiral/)
+- The [D Lab]() Lab at the University of Michigan - Ann Arbor
 
-- [Penn State University](https://methodology.psu.edu/)
+- [The Methodology Center](https://methodology.psu.edu/) at Penn State University
+
+![](SRLLLogo.jpg)

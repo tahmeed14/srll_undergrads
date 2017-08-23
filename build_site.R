@@ -6,3 +6,4 @@ setwd("/Users/Tahmeed/srll_undergrads")
 
 #render your sweet site. 
 rmarkdown::render_site()
+

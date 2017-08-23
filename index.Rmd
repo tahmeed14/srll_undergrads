@@ -6,13 +6,13 @@ The [Statistical Reinforcement Learning Lab](http://dept.stat.lsa.umich.edu/~sam
 
 The research team is particulary interested in the field of mobile health. The research focus is on combining statistical inference methods (confidence intervals, hypothesis testing) with algorithmic methods developed in computer science for use in reinforcement learning and evaluating treatment policies (adaptive interventions and just-in-time adaptive interventions in mobile health)
 
-### [Lab Members](harvard.html)
+### [[Lab Members]](harvard.html)
 
 
-### [Lab Schedule](internal.html)
+### [[Lab Schedule]](internal.html)
 
 
-### [Software for SMART and MRT](https://methodology.psu.edu/downloads)
+### [[Software for SMART and MRT]](https://methodology.psu.edu/downloads)
 
 
 ![](SRLLgroupphoto.jpg)
