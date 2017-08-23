@@ -11,6 +11,8 @@ navbar:
           href: about.html
         - text: "Lab Members / Join"
           href: harvard.html
+        - text: "Former Students"
+          href: former.html
         - text: "Posters"
           href: posters.html
         - text: "Internal Site"
